@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>almond</id>
+    <version>0.2.6</version>
+    <authors>James Burke</authors>
+    <owners>James Burke</owners>
+    <licenseUrl>https://github.com/jrburke/almond/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/jrburke/almond</projectUrl>
+    <iconUrl>http://requirejs.org/i/logo.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>A small Asynchronous Module Definition (AMD) API provider.</description>
+    <releaseNotes></releaseNotes>
+    <copyright>Copyright 2010-2013</copyright>
+    <tags>JavaScript</tags>
+  </metadata>
+  <files>
+    <file src="content\Scripts\almond.js" target="content\Scripts\almond.js" />
+  </files>
+</package>
